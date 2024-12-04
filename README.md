@@ -1,6 +1,7 @@
 # ✨ Neovim Custom Config (WIP 🌸) ✨
 
-Hewwo~! 💖 This is my super-duper cute and cozy Neovim setup 🌈✨, powered by [lazy.nvim](https://github.com/folke/lazy.nvim)~! It's still a work in progress (WIP), but I'm sooo excited to share it with you soon! 🥺💕
+Hewwo~! 💖 This is my super-duper cute and cozy Neovim setup 🌈✨, powered by [lazy.nvim](https://github.com/folke/lazy.nvim)~! 
+It's still a work in progress (WIP), but I'm sooo excited to share it with you soon! 🥺💕
 
 ## 🛠️ Features (Coming Soon 🌟)
 
