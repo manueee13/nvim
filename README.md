@@ -32,4 +32,4 @@ Voilà! Enjoy the beginnings of a kawaii coding experience~ 🌸✨(≧◡≦)
 💌 Stay Tuned! (っ◔◡◔)っ
 This is just the beginning of something adorable~ ✧･ﾟ: *｡ I’ll keep updating this as I add more femboy-approved features and plugins~! If you have any cute ideas or suggestions, feel free to open an issue or DM me on Discord~ 💕 (●'◡'●)
 
-Thank you for being here~! You're amazing, and you deserve all the sparkles in the world 🌟💖. Happy coding, uwu~ 🥺💞 (灬º‿º灬)♡ """
+Thank you for being here~! You're amazing, and you deserve all the sparkles in the world 🌟💖. Happy coding, uwu~ 🥺💞 (灬º‿º灬)♡
