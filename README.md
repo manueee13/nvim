@@ -1,6 +1,3 @@
-# Let's generate the entire readme content with the kawaiimoji included and save it to a file.
-
-readme_content = """
 # ✨ Neovim Custom Config (WIP 🌸) ✨
 
 Hewwo~! 💖 This is my super-duper cute and cozy Neovim setup 🌈✨, powered by [lazy.nvim](https://github.com/folke/lazy.nvim)~! It's still a work in progress (WIP), but I'm sooo excited to share it with you soon! 🥺💕
